@@ -919,6 +919,7 @@ svg circle:nth-child(2) {
     outline: none;
     border-color: #d8dce0;
     resize: none;
+    padding: 0 15px;
 }
 .button-submit {
     width: 100%;
